@@ -4,6 +4,6 @@ A Userscript for [MouseHunt](https://mousehuntgame.com) to fix the "You Own: 0" 
 
 ## Installation
 
-Install via [GreasyFork](https://greasyfork.org/en/scripts/445926-mousehunt-item-quantity-fix)
+Install via [GreasyFork](https://greasyfork.org/en/scripts/445926-mousehunt-item-quantity-fix).
 
 *You must have [ViolentMonkey](https://violentmonkey.github.io/) or another userscript manager installed.*
